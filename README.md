@@ -3,6 +3,7 @@ This is a story-telling game that provides the users with different options to c
 Every time when the user selects an option, the story leads to a different story room and the user may win or lose. 
 This game is about a girl who is looking for ingredients to make a strawberry fruit pie.
 Thus, she has to look for required ingredients at the grocery store & at the forest.
+
 When the girl required all the ingredients and brings it home to bake the strawberry fruit pie, you win the game.
 But!!! During her exploration to acquire ingredients, she may encounter several traps that could lead user to lost the game so be cautious. 
 
