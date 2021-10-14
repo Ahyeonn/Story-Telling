@@ -21,8 +21,6 @@ There are two ways to try out my game.
 
 1. Download the codes from GitHub and run them through the Visual Studio Code with Terminal
 
-or
-
 2. Try my game at a supplement website, Replit in this URL :
 https://replit.com/@AhyeonJeon1/Strawberry-Fruit-Pie#main.py
 
