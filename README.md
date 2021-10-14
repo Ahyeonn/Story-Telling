@@ -21,13 +21,13 @@ There are two ways to try out my game.
 
 1. Download the codes from GitHub and run them through the Visual Studio Code with Terminal
 
-""or
+or
 
 2. Try my game at a supplement website, Replit in this URL :
 https://replit.com/@AhyeonJeon1/Strawberry-Fruit-Pie#main.py
 
 ## Problems that I faced
-ddd
+Since I am a beginner to Python, I have faced several problems on how to apply my functions to work to display the way how I want my game to run. Such as how to use the While Loop, For Loop, and If Else Statement properly.
 
-## How I solved my problems
-dddd
+## How I Solved My Problems
+I was able to solve my problems by debugging my code at a test.py that I created, search for solutions from the class powerpoints, and I tried the traceback method to solve the problem one by one.
