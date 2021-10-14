@@ -1,4 +1,5 @@
 # Strawberry-Fruit-Pie
+This is a game that lets users select few options throughout the game to collect ingredients to make a strawberry fruit pie. 
 
 
 ## Why did I do this. What is my project?
