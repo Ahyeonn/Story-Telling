@@ -14,18 +14,17 @@ I used the programming language, Python.
 I wanted to make a game with the language of Python because I found python challenging and I wanted to challenge myself by applying what I have learned & understood from my Python lessons.
 
 ## Why Strawberry-Fruit-Pie?
-I was asked to make an exploration game about zombies or something aggressive. Instead, I decided to make a game that is not violent so everyone can enjoy my game.
+I was asked to make an exploration game about zombies or something aggressive but since that is not my preference for the game, I decided to make a game that is not violent so everyone can enjoy my game.
 
 ## Getting Started
 There are two ways to try out my game.
 
-1. Download the codes from github and run it through the VScode with Terminal
+1. Download the codes from GitHub and run them through the Visual Studio Code with Terminal
 
-2. Try my game at replit in this url : 
+or 
+
+2. Try my game at a supplement website, Replit in this URL :
 https://replit.com/@AhyeonJeon1/Strawberry-Fruit-Pie#main.py
-
-## What is my project
-dddd
 
 ## Problems that I faced
 ddd
