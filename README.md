@@ -1,11 +1,11 @@
 # Strawberry-Fruit-Pie
-This is a story-telling game that provides users with a variet of different story options to choose from.
+This is a story-telling game that provides users with a variety of different story options to choose from.
 Every time a user selects an option, the story leads to a different story room where the user may succeed or fail. 
 This game is about a girl who is looking for ingredients in order to make a strawberry fruit pie.
 Thus, she has to look for the required ingredients at the grocery store & within the forest.
 
 When the girl acquires all of the required ingredients and brings it home to bake the strawberry fruit pie, you win the game.
-But!!! During her exploration to retrieve the ingredients, she may encounter several traps that could lead the user to losing the game so be cautious. 
+But!!! During her exploration to retrieve the ingredients, she may encounter several traps that could lead the user to lose the game so be cautious. 
 
 ## Tools Used
 I used the programming language, Python. 
@@ -28,4 +28,4 @@ https://replit.com/@AhyeonJeon1/Strawberry-Fruit-Pie#main.py
 Since I am a beginner to Python, I faced several problems on how to apply my functions to display my game the specific way I wanted such as how to use the While Loop, For Loop, and If Else Statement properly.
 
 ## How I Solved My Problems
-I was able to solve my problems by debugging my code at a test.py that I created, search for solutions from the class powerpoints, and tried the traceback method to solve the problems one by one.
+I was able to solve my problems by debugging my code at a test.py that I created, searching for solutions from the class powerpoints, and trying the traceback method to solve the problems one by one.
