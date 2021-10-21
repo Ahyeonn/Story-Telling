@@ -28,4 +28,4 @@ https://replit.com/@AhyeonJeon1/Strawberry-Fruit-Pie#main.py
 Since I am a beginner to Python, I faced several problems on how to apply my functions to display my game the specific way I wanted such as how to use the While Loop, For Loop, and If Else Statement properly.
 
 ## How I Solved My Problems
-I was able to solve my problems by debugging my code at a test.py that I created, searching for solutions from the class powerpoints, and trying the traceback method to solve the problems one by one.
+I was able to solve my problems by debugging my code at a test.py that I created, searching for solutions from the class powerpoints, and trying the traceback method to solve the problems one by one
